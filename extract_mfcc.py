@@ -4,8 +4,8 @@ import librosa
 import math
 
 
-DATASET_PATH = "genres"
-JSON_PATH = "data.json"
+DATASET_PATH = "path/to/dataset"
+JSON_PATH = "path/to/json/file"
 
 SAMPLE_RATE = 22050
 DURATION = 30
